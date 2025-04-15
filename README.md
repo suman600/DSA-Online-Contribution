@@ -11,5 +11,6 @@ This repository contains a list of LeetCode DSA questions.
 | 3 | [Merge-Strings-Alternately](https://leetcode.com/problems/merge-strings-alternately/solutions/6635413/merge-strings-alternately-by-suman600-vo5t)                                  | Easy |
 | 4 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/solutions/6635997/greatest-common-divisor-of-strings-by-su-3nlw)             | Easy |
 | 5 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/solutions/6636438/kids-with-the-greatest-number-of-candies-w5tm) | Easy |
-| 6 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/solutions/6639246/can-place-flowers-by-suman600-s7vh) | Easy |
+| 6 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/solutions/6639246/can-place-flowers-by-suman600-s7vh)                                                          | Easy |
+| 7 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/solutions/6650302/reverse-vowels-of-a-string-by-suman600-mjfn)                               | Easy |
 
